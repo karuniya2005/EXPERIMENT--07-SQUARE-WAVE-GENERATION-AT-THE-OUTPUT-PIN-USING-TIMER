@@ -1,5 +1,6 @@
-# EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
-
+# EXPERIMENT--05-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
+### Name:Karuniya M
+### Reg No:212223240068
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
 
@@ -68,7 +69,7 @@ Step9. Create a new Proteus project and place STM32F40xx i.e. the same MCU for w
 
 Step10. Double click on the the MCU part to open settings. Next to the Program File option, give full path to the Hex file generated using STM32Cube IDE. Then set the external crystal frequency to 8M (i.e. 8 MHz). Click OK to save the changes.
 
-Step14. click on debug and simulate using simulation  
+Step11. click on debug and simulate using simulation  
 
 ## STM 32 CUBE PROGRAM :
 ```
